@@ -1,2 +1,2 @@
 # nifi-rpm
-RPM packaging for Nifi
+RPM packaging for Apache Nifi
