@@ -16,7 +16,7 @@ Requires(postun): /usr/sbin/userdel
 Apache NiFi is dataflow system based on the Flow-Based Programming concepts.
 
 %prep
-%setup -q
+%setup -q -n %{name}-%{orig_version}
 
 %build
 # do nothing
